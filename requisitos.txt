@@ -2,3 +2,4 @@ RF01 - O sistema deve permitir cadastro de usuários.
 RF02 - O sistema deve permitir login de usuários.
 RF03 - O sistema deve exibir catálogo de livros.
 RF04 - O sistema deve permitir adicionar livros ao carrinho.
+RF10 - O sistema deve aceitar PIX.
